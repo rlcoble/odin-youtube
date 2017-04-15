@@ -1,0 +1,56 @@
+header {
+	background-color: red;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+
+header span h1{
+	display: inline;
+}
+
+header form{
+	display: inline;
+	margin: 0 0 0 100px;
+	padding: 0;
+}
+
+body{
+	background-color: purple;
+	text-align: center;
+}
+
+.video{
+	background-color: blue;
+	margin: 20px auto 0 auto;
+	display: inline-block;
+	padding: 0;	
+}
+
+.video iframe{
+	margin: 0 0 -4px 0;
+	padding: 0;
+}
+
+.title{
+	background-color: blue;
+	min-height: 100px;
+	margin: 20px auto 0 auto;
+	width: 854px;
+}
+
+.comments{
+	background-color: blue;
+	min-height: 200px;
+	margin: 20px auto 0 auto;
+	width: 854px;
+}
+
+aside{
+	background-color: green;
+	display: inline;
+	min-height: 820px;
+	width: 300px;
+	margin: 20px 213px 0 -513px;
+	float: right;
+}
